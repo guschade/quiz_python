@@ -6,11 +6,11 @@ Bem-vindo ao Quiz do Gustavo! Este é um projeto simples de um quiz de perguntas
 
 1. Clone este repositório para o seu computador:
     ```sh
-    git clone https://github.com/seu-usuario/quiz-do-gustavo.git
+    git clone https://github.com/seu-usuario/quiz_python.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd quiz-do-gustavo
+    cd quiz_python
     ```
 3. Execute o script `quiz.py`:
     ```sh
